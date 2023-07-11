@@ -11,4 +11,7 @@ a Run time comparison in heap sort using python and C++
 | 100k | 2.3718456 | 2.97513 |
 | 1M | 25.25306	 | NULL |
 
-![image](https://github.com/yousefturin/Run-Time-heapSort/assets/94796673/c4cffb07-f210-488a-916b-5e7fc5ebd148)
+![image](https://github.com/yousefturin/Run-Time-heapSort/assets/94796673/f3b13924-1787-4529-b8ff-ea398717acd7)
+
+# Difference in Runs
+![diff in c++and python](https://github.com/yousefturin/Run-Time-heapSort/assets/94796673/80c3140e-82d2-4b07-a7ac-5478f042dc7b)
