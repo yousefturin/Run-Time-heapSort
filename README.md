@@ -3,7 +3,7 @@ a Run time comparison in heap sort using python and C++
 
 # First Run
 
-|	Values | Python |	C++ |
+|	Values | Python(ms) |	C++(ms) |
 |---|---|---|
 | 100 | 	0.006354	 | 0.00115 |
 | 1K | 0.010338 | 0.02376 |
